@@ -1,7 +1,7 @@
 Hi, I'm **Justyne Phan**!  
-I’m a **Software Engineering student** at **Concordia University**, currently participating in the **Co-op program**. I’m passionate about building innovative solutions through technology, with expertise in **full-stack development** and **artificial intelligence**.  
+I’m a Software Engineering student at Concordia University, currently participating in the Co-op program. I’m passionate about building innovative solutions through technology, with expertise in full-stack development and artificial intelligence.  
 
-Currently, I’m working as a **Software Quality Assurance Engineer ** at **Matrox Video**, where I design and execute test plans, develop automated scripts, and collaborate with cross-functional teams to enhance product reliability.  
+Currently, I’m working as a Software Quality Assurance Engineer at Matrox Video, where I design and execute test plans, develop automated scripts, and collaborate with cross-functional teams to enhance product reliability.  
                                                                                                                                             |
 Technologies & Tools
 
