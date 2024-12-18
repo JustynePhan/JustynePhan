@@ -1,13 +1,8 @@
-Hi there, I'm Justyne Phan!
+Hi, I'm **Justyne Phan**!  
+I’m a **Software Engineering student** at **Concordia University**, currently participating in the **Co-op program**. I’m passionate about building innovative solutions through technology, with expertise in **full-stack development**, **artificial intelligence**, and **quality assurance**.  
 
-
-
-
-
-
-
-
-| **Category**        | **Technologies**                                                                                                                                                |
+Currently, I’m working as a **Software Quality Assurance Engineer Intern** at **Matrox Video**, where I design and execute test plans, develop automated scripts, and collaborate with cross-functional teams to enhance product reliability.  
+                                                                                                                                            |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **Frontend**         | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
